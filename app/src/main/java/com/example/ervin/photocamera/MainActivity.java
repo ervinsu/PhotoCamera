@@ -75,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
         builder = new AlertDialog.Builder(this);
         file_uri=null;
 
-        Toast.makeText(this, "misalnya gw tambah", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "misalnya gw tambah lg", Toast.LENGTH_SHORT).show();
         
         //cek permission
         checkPermission();
